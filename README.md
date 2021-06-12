@@ -1,7 +1,6 @@
-> # I have frozen my personal support for public plugins. The plugins will remain public on GitHub (though archived) for anyone that would like to keep them updated.  This my final decision on the matter. No support will be provided - you will be ignored - regardless of private or public inquiry.
 
 # NaviCompassV2
-
+### Actualización al protocol "440" para la versión 1.17.0 Minecraft pe
 **[Poggit] https://poggit.pmmp.io/ci/fernanACM/NaviCompassV2/NaviCompassV2**
 
 **[Github] https://github.com/fernanACM/NaviCompassV2**
