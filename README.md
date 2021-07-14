@@ -1,6 +1,6 @@
 
 # NaviCompassV2
-### Actualización al protocol "440" para la versión 1.17.0 Minecraft pe
+### Actualización al protocol "448" para la versión 1.17.10 Minecraft pe
 **[Poggit] https://poggit.pmmp.io/ci/fernanACM/NaviCompassV2/NaviCompassV2**
 
 **[Github] https://github.com/fernanACM/NaviCompassV2**
