@@ -2,6 +2,7 @@
 name: NaviCompass
 author: Xenophilicy
 version: 2.3.4
+website: https://github.com/fernanACM/NaviCompassV2
 main: Xenophilicy\NaviCompass\NaviCompass
 api:
 - 3.0.0
