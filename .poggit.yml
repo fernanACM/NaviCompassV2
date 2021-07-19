@@ -4,7 +4,6 @@ branches:
 projects:
   NaviCompassV2:
     path: ""
-    icon: icon.png
     lint:
       phpstan: false
 ...
